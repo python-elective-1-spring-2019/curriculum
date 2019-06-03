@@ -27,9 +27,6 @@ You can expect questions at the exam from within the content of this list.
 * [4.2. for Statements](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
 * [4.3. The range() Function](https://docs.python.org/3/tutorial/controlflow.html#the-range-function)
 * [5.1. More on Lists](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)
-* [4.2. for Statements](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
-* [4.3. The range() Function](https://docs.python.org/3/tutorial/controlflow.html#the-range-function)
-* [5.1. More on Lists](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)
 * [5.3. Tuples and Sequences](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences)
 * [Sorting HOW TO](https://docs.python.org/3/howto/sorting.html#sorting-how-to)
 
@@ -39,7 +36,6 @@ You can expect questions at the exam from within the content of this list.
 * [5.7. More on Conditions](https://docs.python.org/3/tutorial/datastructures.html#more-on-conditions)
 * [5.8. Comparing Sequences and Other Types](https://docs.python.org/3/tutorial/datastructures.html#comparing-sequences-and-other-types)
 * [5.4. Sets](https://docs.python.org/3/tutorial/datastructures.html#sets)
-* [Set Types — set, frozenset](https://docs.python.org/3/library/stdtypes.html#set-types-set-frozenset)
 * [7.2. Reading and Writing Files](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files)
 * [7.2.1. Methods of File Objects](https://docs.python.org/3/tutorial/inputoutput.html#methods-of-file-objects)
 * [8.4. The try statement](https://docs.python.org/3/reference/compound_stmts.html#the-try-statement)
@@ -60,7 +56,7 @@ You can expect questions at the exam from within the content of this list.
 
 ## Lesson 6: Git, Markdown and Required reading Exercise
 * [Mandatory Assignment: Required reading Exercise](https://github.com/python-elective-1-spring-2019/Lesson-07-Required-reading-Exercise/blob/master/exercises/README.md)
-* [The Markdown syntax](other_materials/markdown.md)
+* [The Markdown syntax](https://github.com/python-elective-1-spring-2019/Lesson-06-Git-Markdown-and-Required-reading-Exercise/blob/master/other_materials/markdown.md)
 * [How to Learn Python in Five Minutes](https://www.youtube.com/watch?v=ohr6O78jGzs)
 
 ## Lesson 9: Classes OOP, Virtual Environments
@@ -71,7 +67,7 @@ You can expect questions at the exam from within the content of this list.
 * [object.__str__(self)](https://docs.python.org/3/reference/datamodel.html#object.__str__)
 * [object.__dict__](https://docs.python.org/3/library/stdtypes.html#object.__dict__)
 * [12. Virtual Environments and Packages](https://docs.python.org/3/tutorial/venv.html)
-* [Virtual Enviroment setup ](materials/virtual_enviroment_setup.md)
+* [Virtual Enviroment setup ](https://github.com/python-elective-1-spring-2019/Lesson-09-Classes-OOP-Virtual-Environments-and-Packages/blob/master/materials/virtual_enviroment_setup.md)
 
 ## Lesson 10 OOP, Duck typing, decorators
 * [The Ultimate Guide to Python Type Checking](https://realpython.com/python-type-checking/#duck-typing)
@@ -82,14 +78,16 @@ You can expect questions at the exam from within the content of this list.
 * [math — Mathematical functions](https://docs.python.org/3.7/library/math.html)
 * [Docstring Conventions](https://www.python.org/dev/peps/pep-0257/#what-is-a-docstring)
 
-## Lesson 12: Testing, Debugging, Exeptions
-
-
 ## Lesson 13: Searching Algorithms & Recursive Functions
+* [Linear Search - code example](https://github.com/python-elective-1-spring-2019/Lesson-13-Searching-Algorithms-Recursive-Fuctions/blob/master/code_examples/linear_search.py)
+* 
 
 ## Lesson 14: Sorting algorithms
-* Required reading for the algorithms we have worked with the last 2 weeks will come ...
-* [Visual Sorting pdf](Sorting.pdf)
+* [Visual Sorting pdf](https://github.com/python-elective-1-spring-2019/Lesson-14-Sorting-algorithms/blob/master/Sorting.pdf)
+* [Insertion sort - video](https://www.youtube.com/watch?v=OGzPmgsI-pQ)
+* [Bubble sort - code example](https://github.com/python-elective-1-spring-2019/Lesson-14-Sorting-algorithms/blob/master/code_examples/bubble_sort.py)
+* [How to: Work at Google — Example Coding/Engineering Interview](https://www.youtube.com/watch?v=XKu_SEDAykw&t=379s)
+
 
 ## Lesson 17: Python Tips & Tricks
 * [5.1.3. List Comprehensions](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions)
@@ -97,8 +95,7 @@ You can expect questions at the exam from within the content of this list.
 * [4.7.5. Lambda Expressions](https://docs.python.org/3/tutorial/controlflow.html?highlight=lambda#lambda-expressions)
 
 ## Lesson-18-Python-Tips-and-Tricks-II
-* [Map, Filter and Reduce](http://book.pythontips.com/en/latest/map_filter.html)
-* [Python reduce() function](https://thepythonguru.com/python-builtin-functions/reduce/)
+* [Map, Filter](http://book.pythontips.com/en/latest/map_filter.html)
 * [Primer on Python Decorators](https://realpython.com/primer-on-python-decorators/)
 
 ## Lesson-19-property-protocols-arg-in-generator
@@ -124,7 +121,7 @@ You can expect questions at the exam from within the content of this list.
 ## Lesson-22-Pip-Freeze-Requirements-Delivery-of-a-Project
 * [12.2. Creating Virtual Environments](https://docs.python.org/3/tutorial/venv.html#creating-virtual-environments)
 * [12.3. Managing Packages with pip](https://docs.python.org/3/tutorial/venv.html#managing-packages-with-pip)
-* [requirements tutorial](materials/tutorial_requirements_pip_freeze.md)
+* [requirements tutorial](https://github.com/python-elective-1-spring-2019/Lesson-22-Pip-Freeze-Requirements-Delivery-of-a-Project/blob/master/materials/tutorial_requirements_pip_freeze.md)
 * [Make a README](https://www.makeareadme.com/)
 
 

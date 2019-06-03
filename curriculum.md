@@ -8,7 +8,7 @@ You can expect questions at the exam from within the content of this list.
 
 ## Lesson 1: Introduction to the Python elective
 * [Installations](/materials/installation.md)
-* [Unix Commands](/materials/unix_commands.md)
+* [Unix Commands](/materials/unix_commands_2.md)
 * [Exercise: Unix Commands](/materials/UNIX_commands.md)
 
 

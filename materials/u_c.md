@@ -1,6 +1,6 @@
 # UNIX Commands Exercises
 Necessary files to complete this exercise.
-
+.
 Download the files.
 
 * [ex1.acc](http://www.cbs.dtu.dk/courses/27610/ex1.acc)    

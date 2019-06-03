@@ -7,9 +7,9 @@ You can expect questions at the exam from within the content of this list.
 # Required readings
 
 ## Lesson 1: Introduction to the Python elective
-* [Installations](/materials/installation.md)
-* [Unix Commands](/materials/unix_commands_2.md)
-* [Exercise: Unix Commands](/materials/u_c.md)
+* [Installations](https://github.com/python-elective-1-spring-2019/Lesson-01-Introduction-to-the-Python-elective/blob/master/other_materials/installation.md)
+* [Unix Commands](https://github.com/python-elective-1-spring-2019/Lesson-01-Introduction-to-the-Python-elective/blob/master/other_materials/unix_commands.md)
+* [Exercise: Unix Commands](https://github.com/python-elective-1-spring-2019/Lesson-01-Introduction-to-the-Python-elective/blob/master/exercises/UNIX_commands.md)
 
 
 ## Lesson 02: Introduction to python and python strings

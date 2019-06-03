@@ -7,10 +7,9 @@ You can expect questions at the exam from within the content of this list.
 # Required readings
 
 ## Lesson 1: Introduction to the Python elective
-* [Learning Objectives](/other_materials/learning_objectives.md)
-* [Installations](/other_materials/installation.md)
-* [Unix Commands](/other_materials/unix_commands.md)
-* [Exercise: Unix Commands](/exercises/UNIX_commands.md)
+* [Installations](/materials/installation.md)
+* [Unix Commands](/materials/unix_commands.md)
+* [Exercise: Unix Commands](/materials/UNIX_commands.md)
 
 
 ## Lesson 02: Introduction to python and python strings
